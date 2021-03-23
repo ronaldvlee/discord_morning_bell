@@ -1,2 +1,2 @@
 # discord_morning_bell
-Simple discord morning bell that rings when market opens
+Simple discord bot that rings when market opens
