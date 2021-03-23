@@ -1,6 +1,5 @@
 import asyncio
 import discord
-import ffmpeg
 import time
 from datetime import datetime, timezone
 
