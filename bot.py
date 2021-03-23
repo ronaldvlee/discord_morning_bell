@@ -6,7 +6,7 @@ from datetime import datetime, timezone
 
 TOKEN = ''
 channels_to_join = {}
-audio_source = 'bell.wav'
+audio_source = 'thinkorswim_bell.mp3'
 alarm_time = '06:30:00'
 ffmpeg_executable = '/ffmpeg/bin/ffmpeg.exe'
 
